@@ -1,0 +1,20 @@
+{
+  "name": "tp-nodejs-chinski",
+  "version": "1.0.0",
+  "description": "tp01 node js dai",
+  "homepage": "https://github.com/DavidChinski/tp-nodejs-chinski#readme",
+  "bugs": {
+    "url": "https://github.com/DavidChinski/tp-nodejs-chinski/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidChinski/tp-nodejs-chinski.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
